@@ -9,12 +9,14 @@
 
 > **Introduction**
 
-모델 순서도
 
-> **Experiment**
+
+> **Materials and methods**
 
 강아지 품종 이미지
 입마개 착용 이미지
+
+> **Results**
 
 > **Conclusion**
 
