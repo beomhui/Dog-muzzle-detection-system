@@ -29,6 +29,8 @@
 
 > **System Architecture**
 
+본 연구에서는 두 개의 Convolutional Neural Network(CNN)와 두 개의 You Only Look Once(YOLO) 모델을 활용하여 입력된 이미지 속 개의 품종과 입마개 착용 여부를 판별한다.
+
 <br />
 
 > **Result**
