@@ -1,4 +1,4 @@
-### Dog Muzzle Detection System(DMDS)
+### Dog muzzle detection system using YOLO, an artificial intelligence-based object detection model
 
 <br />
 
