@@ -34,4 +34,4 @@
 
 > **Result**
 
-gif와 이미지 삽입
+![다운로드](https://user-images.githubusercontent.com/77565332/131991397-3aeeabd8-9320-44c8-9c8d-04ec2301927e.png)
