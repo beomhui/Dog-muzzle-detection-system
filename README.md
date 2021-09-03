@@ -12,9 +12,11 @@
 
 > **Requirements**
 
-* Python
-* Tensorflow
-* Keras
+* Python : 3.7.11
+* Tensorflow-gpu : 1.15.2
+* Keras : 2.3.0
+* Cudatoolkit : 10.0.130
+* cuDNN : 7.6.5
 
 <br />
 
